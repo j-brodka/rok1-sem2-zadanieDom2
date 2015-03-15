@@ -1,0 +1,17 @@
+PREZES Pan Dyrektor 25 Koscielna_12_65-320_Chrzeszczyszyboszyce 
+KIEROWNIK 5 Pan Kierownik1 12 Longbicz_37_12-123_Kalifornia
+KIEROWNIK 6 Pan Kierownik2 7 Szortbicz_8498_01-234_Szikago
+PRACOWNIK Jozef Pracownik1 4 Grunwaldzka_12_15-167_Poznan
+PRACOWNIK Adam Pracownik2 7 Prosta_2_64-000_Koscian
+PRACOWNIK Jerzy Pracownik3 7 Krzywa_3_64-100_Leszno
+PRACOWNIK Janusz Pracownik4 12 Grunwaldzka_25_15-167_Poznan
+PRACOWNIK Andrzej Pracownik5 5 Kreta_4_64-200_Wroclaw
+PRACOWNIK Piotrek Pracownik6 1 Pokrecona_5_64-300_Hamburg
+PRACOWNIK Zbigniew Pracownik7 20 Grunwaldzka_18_15-167_Poznan
+PRACOWNIK Zdzichu Pracownik8 18 Grunwaldzka_16_15-167_Poznan
+PRACOWNIK Stefan Pracownik9 23 Mickiewicza_12_64-400_Frankfurt
+PRACOWNIK Janek Pracownik10 15 Geringa_13_64-500_Fromborg
+PRACOWNIK Edward Pracownik11 16 Grunwaldzka_14_15-167_Poznan
+PORTIER Pan Jozek 25 Grunwaldzka_15_15-167_Poznan
+PORTIER Pan Zbiniu 15 Ulica_1_11-111_Kolobrzeg
+PORTIER Pani Basia 25 Nowa_3_22-222_Kwadratbrzeg
